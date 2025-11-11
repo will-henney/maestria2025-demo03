@@ -1,2 +1,3 @@
-# maestria2025-demo03
-Demostración de usar GitHub 
+# Demostración para clase de programación
+
+Estoy editando este archivo en el editor de github.dev
