@@ -6,4 +6,5 @@ Estoy editando este archivo en el editor de github.dev
 
 ## Nueva sección en VS Code local
 
-Una nueva línea
+Línea cambiado con otros cambios
+
